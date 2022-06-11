@@ -1,0 +1,1 @@
+  d_array.push((i.split(","))[2].strip())
